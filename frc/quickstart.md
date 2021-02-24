@@ -5,7 +5,7 @@ date:   2021-02-23 17:32:11 -0500
 categories: frc, guide
 ---
 
-This guide contains most (if not all) of the software tools needed to get an FRC robot working.
+This guide contains installation instructions for the most common FRC software tooling.
 
 # Overview
 

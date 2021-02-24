@@ -35,6 +35,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 permalink: /:year/:month/:day/:title/
 
