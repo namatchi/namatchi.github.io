@@ -5,8 +5,6 @@ title: Welcome
 layout: home
 ---
 
-# Blog
-
 ### [About](about)
 
 ### [Blog posts](blog)
