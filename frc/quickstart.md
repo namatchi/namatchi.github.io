@@ -2,10 +2,17 @@
 layout: post
 title:  "FRC Quickstart Guide"
 date:   2021-02-23 17:32:11 -0500
-categories: frc
+categories: frc, guide
+keywords: frc, guide
 ---
 
 This guide contains most (if not all) of the software tools needed to get an FRC robot working.
+
+> This is a block quote
+
+```lua
+print("This is some code!")
+```
 
 # Overview
 

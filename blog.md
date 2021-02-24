@@ -5,14 +5,4 @@
 layout: page
 ---
 
-## Blog
-
-#### [About](about)
-
-#### [Blog posts](blog)
-
-#### [Archives](archives)
-
-## Guides
-
-#### [FRC Programming Quickstart](frc/quickstart)
+## Nothing to see yet.
