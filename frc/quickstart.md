@@ -13,6 +13,7 @@ This guide contains installation instructions for the most common FRC software t
  - [Installing FRC Game Tools](#installing-frc-game-tools-windows-only)
  - [FRC Java/C++ Programming Suite (All Platforms)](#frc-programming-suite-all-platforms)
  - [Radio Configuration Utility (Windows Only)](#radio-configuration-utility)
+ - [Cross The Road Electronics Utilities](#cross-the-road-electronics)
  - [References](#references)
 
 ## Requirements
@@ -47,6 +48,8 @@ WPILib will save a local copy of everything you need to get going, including:
  - Coding documentation
  - Software tools such as Pathweaver, Shuffleboard, SmartDashboard, RobotBuilder, and OutlineViewer. (Documentation for these tools can be found in the included WPILib documentation)
 
+[Click here for a basic programming guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-benchtop-test-program-cpp-java.html)
+
 ## Radio Configuration Utility
 
 The FRC Radio Configuration Software is used to configure your robot's radio. For a full guide, visit [Programming Your Radio (docs.wpilib.org)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
@@ -62,7 +65,23 @@ If you already have Java installed, the radio configuration utility should work.
 6. Download the installer and select `Install` to complete the installation of Java Runtime Environment.
 7. Once the Java installation finishes, try running the `FRC Radio Configuration Utility` again.
 
-If the installation went well, the radio configuration utility's graphical interface should pop up and ask for a network interface. The Radio Configuration Utility is an extremely handy tool to have available on team laptops during and after build season. For a guide on and explanation about the radio configuration software, click **here** (no guide yet).
+If the installation went well, the radio configuration utility's graphical interface should pop up and ask for a network interface. The Radio Configuration Utility is an extremely handy tool to have available on team laptops during and after build season. 
+
+[Click here for a guide on how to configure robot radios.](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
+
+## Cross The Road Electronics
+
+The Cross The Road Electronics Phoenix API is used to configure your robot's CAN bus and to unlock extra functionality of CTRE products. It is highly recommended to have this on all programmers' laptops.
+
+1. Navigate to the [CTRE Phoenix Framework Releases page on Github](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases).
+2. Under the `Assets` pane, download the latest installer for your operating system.
+3. Once your installer has finished downloading, open it and proceed through the installation.
+4. When prompted with which components to install, proceed with the defaults.
+5. Accept the license agreements and let the installer run to completion. 
+
+When the installer is finished, you'll be left with the Phoenix Tuner, Phoenix Firmware, and Phoenix Lifeboat. Phoenix Tuner is a CAN configurator utility
+
+[Click here for a guide on how Phoenix tuner works.]()
 
 ## References
 
@@ -72,6 +91,8 @@ If the installation went well, the radio configuration utility's graphical inter
 - [Offline Installation Preparation (docs.wpilib.org](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/offline-installation-preparations.html)
 - [FRC Game Tools Installation (docs.wpilib.org)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html)
 - [WPI FRC Wiring Guide (docs.wpilib.org)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html)
+- [WPI Creating your Benchtop Test Program (C++/Java, docs.wpilib.org)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-benchtop-test-program-cpp-java.html)
+- [WPI Programming Your Radio (docs.wpilib.org)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
 
 
 
