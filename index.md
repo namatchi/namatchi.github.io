@@ -8,5 +8,3 @@ layout: home
 ### [Blog posts](blog)
 
 ### [Archives](archives)
-
-### [FRC Programming Quickstart](frc/quickstart)

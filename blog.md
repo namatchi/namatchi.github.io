@@ -7,3 +7,5 @@ permalink: /blog/
 ---
 
 [Paddleball Development Log 1](../posts/paddleball-dev-log-1)
+
+[FRC Programming Quickstart](../frc/quickstart)
