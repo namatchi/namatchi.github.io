@@ -8,12 +8,6 @@ keywords: frc, guide
 
 This guide contains most (if not all) of the software tools needed to get an FRC robot working.
 
-> This is a block quote
-
-```lua
-print("This is some code!")
-```
-
 # Overview
 
  - [Requirements](#requirements)
