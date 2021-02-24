@@ -5,7 +5,12 @@
 layout: page
 ---
 
-# Topics
+### Pinned Topics
 
-[FRC Programming Quickstart]({% link frc/quickstart.md %})
+#### [FRC Programming Quickstart](frc/quickstart)
 
+### Other Topics
+
+#### [About](about)
+
+#### [Archives](archives)
