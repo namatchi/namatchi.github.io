@@ -1,18 +1,18 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
+title: Welcome
+layout: home
 ---
 
-## Blog
+# Blog
 
-#### [About](about)
+### [About](about)
 
-#### [Blog posts](blog)
+### [Blog posts](blog)
 
-#### [Archives](archives)
+### [Archives](archives)
 
-## Guides
+# Guides
 
-#### [FRC Programming Quickstart](frc/quickstart)
+### [FRC Programming Quickstart](frc/quickstart)

@@ -4,10 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-### About me 
-
-My name is Tyler Angley.
-
 ### This website was built with Jekyll.
 
 Visit [jekyllrb.com](https://jekyllrb.com/)
